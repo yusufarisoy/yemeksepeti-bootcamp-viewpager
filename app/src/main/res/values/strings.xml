@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="home_welcome">Welcome to Home Page</string>
+    <string name="on_boarding1_title">knowledge itself is not evil.</string>
+    <string name="on_boarding1_text">Read on for information about our airport SPAS and book your massage… All our reservations are subject to availability and your punctuality.</string>
+    <string name="on_boarding2_title">We hope soon to welcome.</string>
+    <string name="on_boarding2_text">Consider arriving early in order to benefit from our services. We will do our best to honor your reservation according to the number of customers.</string>
+    <string name="on_boarding3_title">Enjoy a wide range library.</string>
+    <string name="skip">Skip</string>
+</resources>
