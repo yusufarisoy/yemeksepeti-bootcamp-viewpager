@@ -43,10 +43,7 @@ class MainOnBoardingFragment: BaseFragment() {
             override fun onPageSelected(position: Int) {
                 setSelectedIndicator(position)
                 when(position) {
-                    0 -> {
-                        skipButton.text = "Skip"
-                        skipButton.setBackgroundColor(resources.getColor(R.color.transparent))
-                    } 1 -> {
+                    1 -> {
                         skipButton.text = "Skip"
                         skipButton.setBackgroundColor(resources.getColor(R.color.transparent))
 
