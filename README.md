@@ -1,5 +1,5 @@
 # Android ViewPager
-Also used Navigation, created Splash screen and did everything in fragments.
+OnBoarding with ViewPager2. Also Used Navigation, created Splash screen and did everything in fragments.
 
 ## Screenshots
 
