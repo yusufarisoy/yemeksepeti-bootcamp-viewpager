@@ -3,10 +3,10 @@ OnBoarding with ViewPager2. Also Used Navigation, created Splash screen and did 
 
 ## Screenshots
 
-![splash](screenshots/splash.jpeg)
+![splash](screenshots/splash.png)
 
-![onBoarding 1](screenshots/onBoarding1.jpeg)
+![onBoarding 1](screenshots/onBoarding1.png)
 
-![onBoarding 2](screenshots/onBoarding2.jpeg)
+![onBoarding 2](screenshots/onBoarding2.png)
 
-![onBoarding 3](screenshots/onBoarding3.jpeg)
+![onBoarding 3](screenshots/onBoarding3.png)
